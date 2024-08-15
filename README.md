@@ -2,8 +2,7 @@
 
 Welcome to my repository! I am Alice, a passionate student of **Computer Engineering** currently enrolled in the master's program at the **University of Pisa**. This digital space gathers the fruits of my academic journey, providing a detailed overview of the projects I have been a part of, the skills I have acquired, and my research in the field of computer science.  
 * 🌍  I'm based in Lucca, Italy.
-* 🚀  I'm currently working on [Square Root Raised Cosine FIR Filter in VHDL](http://github.com/AliceOrlandini/SRRC-FIR-Filter)
-* 🧠  I'm learning VHDL.
+* 🧠  I'm attending the master's program in Computer Engineering at Unipi.
 * 🤝  I'm open to collaborating on Web Projects.
 * ⚡  A function is a combinatory network.
 
